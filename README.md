@@ -1,5 +1,5 @@
 # Working with strings in assembler
-This simple code written with NASM doubles every vowel in every word. The original task in russian language is below:
+This simple code written with NASM doubles every vowel in every word. The original task in russian language is below: <br />
 ![Task](https://github.com/VoroninArtemii/Vowels-in-strings/assets/102426178/1bb697be-e2c3-42aa-be0d-d86ecd7ec9cf) <br />
 ## Translation
 ### Task
