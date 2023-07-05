@@ -8,4 +8,6 @@ Double vowels in every word of the string.
 Input - file. <br />
 Output - console.
 ### Way to transfer the parameters
-Through environment variables.
+Through environment variables. <br />  <br />
+*P. S.: <br /> 
+This program was made with make-utility. "File.txt" is a file with the input data.*
